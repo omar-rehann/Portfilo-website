@@ -3,7 +3,7 @@
 A responsive, bilingual personal portfolio website showcasing my front-end development skills, creative CSS art, and professional projects. Built with clean code principles and optimized for performance and accessibility.
 
 ## 🔗 Live Demo
-[View Website](https://your-portfolio-link.com)
+[View Website](https://omar-rehann.github.io/Portfilo-website/)
 
 ## 🛠️ Technologies Used
 - HTML5
@@ -28,9 +28,9 @@ A responsive, bilingual personal portfolio website showcasing my front-end devel
 
 ## 📬 Contact
 Feel free to reach out via:
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub](https://github.com/yourusername)
+- Email: omarrehan724@gmail.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/omar-rehan)
+- GitHub: [Your GitHub](https://github.com/omar-rehann)
 
 ---
 
